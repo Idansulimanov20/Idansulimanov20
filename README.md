@@ -1,4 +1,4 @@
-הנה הגרסה המעודכנת עם השם “Idan Sulimanov”:
+
 
 # 👋 Hi, I'm Idan Sulimanov!
 
@@ -34,5 +34,3 @@ Let's connect on [LinkedIn]((https://www.linkedin.com/public-profile/settings?tr
 
 ⭐ I believe that with dedication and continuous learning, every goal is achievable!
 
-שמור את הקובץ בשם README.md בתיקיית הפרופיל שלך ב-GitHub.
-אם יש צורך בשינויים נוספים, אני כאן לעזור!
